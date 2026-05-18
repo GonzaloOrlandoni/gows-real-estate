@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./public/portada_portal.png" alt="GOWS Propiedades - Portal Inmobiliario Preview" width="100%" style="border-radius: 12px;" />
+
+<br/>
+<br/>
+
 # GOWS Propiedades - Portal Inmobiliario
 
 **Plataforma de bienes raíces moderna para la búsqueda de propiedades en venta y alquiler.**
@@ -42,19 +47,21 @@ GOWS Propiedades es un portal inmobiliario de alta conversión construido con **
 ## ⚡ Funcionalidades
 
 ### Búsqueda de Propiedades
-| Feature | Descripción |
-|---|---|
-| Explorador | Catálogo paginado de propiedades con vista personalizable |
-| Filtros Sidebar | Selección múltiple de tipos y zonas, con reseteo rápido |
-| Ordenamiento | Por relevancia, precio o superficie |
-| Detalle | Información completa, características, descripción y galería fotográfica |
+
+| Feature         | Descripción                                                              |
+| --------------- | ------------------------------------------------------------------------ |
+| Explorador      | Catálogo paginado de propiedades con vista personalizable                |
+| Filtros Sidebar | Selección múltiple de tipos y zonas, con reseteo rápido                  |
+| Ordenamiento    | Por relevancia, precio o superficie                                      |
+| Detalle         | Información completa, características, descripción y galería fotográfica |
 
 ### Experiencia de Usuario
-| Módulo | Funcionalidades |
-|---|---|
-| **Favoritos** | Agregar/quitar, contador en tiempo real, vista separada para revisar |
-| **Contacto** | Formulario en la vista de la propiedad y botón de acceso rápido a WhatsApp |
-| **Animaciones** | Entradas sutiles, hover effects y micro-interacciones |
+
+| Módulo          | Funcionalidades                                                            |
+| --------------- | -------------------------------------------------------------------------- |
+| **Favoritos**   | Agregar/quitar, contador en tiempo real, vista separada para revisar       |
+| **Contacto**    | Formulario en la vista de la propiedad y botón de acceso rápido a WhatsApp |
+| **Animaciones** | Entradas sutiles, hover effects y micro-interacciones                      |
 
 ---
 
@@ -79,6 +86,7 @@ Arquitectura:
 ## 🚀 Instalación y Uso
 
 ### Requisitos
+
 - Node.js **18+**
 - npm **9+**
 
@@ -126,7 +134,7 @@ gows-real-estate/
 │   ├── App.jsx               # Enrutamiento lógico basado en estado
 │   ├── index.css             # Estilos globales y design system
 │   └── main.jsx              # Entry point React
-├── package.json              
+├── package.json
 ├── vercel.json               # Configuración SPA para Vercel
 └── vite.config.js
 ```
@@ -143,6 +151,6 @@ gows-real-estate/
 
 <div align="center">
 
-*Desarrollado con ❤️ por [GOWS Agency](https://gows-web-oficial.vercel.app)*
+_Desarrollado con ❤️ por [GOWS Agency](https://gows-web-oficial.vercel.app)_
 
 </div>
